@@ -37,6 +37,7 @@ CoffeeBuddy is a web-based coffee ordering platform inspired by Swiggy, designed
 coffee-buddy/
 ├── admin/
 │ └── [Admin Panel files for shop/product management]
+
 ├── user/
 │ ├── nav1.php
 │ ├── shop.php
@@ -55,6 +56,7 @@ coffee-buddy/
 ├── assets/
 │ ├── css/
 │ └── img/
+
 └── README.md
 
 
